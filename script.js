@@ -23,4 +23,5 @@ document.getElementById("result").innerHTML =
 "<p>Non-Essential Expenses (30%): " + formatRupiah(nonEssential) + "</p>" +
 "<p>Savings (20%): " + formatRupiah(savings) + "</p>";
 
-}
+} 
+
